@@ -1,0 +1,43 @@
+
+Perfil Jonas PRN  na interface Wi-Fi: 
+======================================================================= 
+
+Aplicado: Todos os Perfis de Usu�rios
+
+Informa��es do perfil 
+------------------- 
+    Vers�o                : 1
+    Tipo                   : LAN sem Fio
+    Nome                   : Jonas PRN 
+    Op��es de controle        : 
+        Modo de conex�o    : Conectar automaticamente
+        Transmiss�o da rede  : conectar somente se esta rede estiver transmitindo
+        Altern�ncia autom�tica : N�o alternar para outra rede
+        Uso de MAC Aleat�rio: Desabilitado
+
+Configura��es de conectividade 
+--------------------- 
+    N�mero de SSIDs        : 1
+    Nome SSID              : "Jonas PRN "
+    Tipo de rede           : Infraestrutura
+    Tipo de R�dio               : [ Qualquer Tipo de R�dio ]
+    Extens�o do fornecedor       : N�o presente
+
+Configura��es de seguran�a 
+----------------- 
+    Autentica��o         : WPA2-Personal
+    Codifica��o         : CCMP
+    Autentica��o         : WPA2-Personal
+    Codifica��o         : GCMP
+    Chave de seguran�a           : Presente
+    Conte�do da Chave            : familiaribeiro
+
+Configura��es de custo 
+------------- 
+    Custo                   : irrestrito
+    Congestionado              : n�o
+    Limite de Dados Aproximado : n�o
+    Limite de Dados Excedido        : n�o
+    Roaming                : n�o
+    Origem de Custo            : padr�o
+

@@ -1,0 +1,16 @@
+{
+  "name": "find-wifi-password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wifi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aenã Martinelli",
+  "license": "ISC",
+  "dependencies": {
+    "nthline": "^1.0.2",
+    "pkg": "^5.8.0"
+  }
+}
