@@ -8,5 +8,8 @@
 <h3>Install dependencies</h3>
 <p>npm install</p>
 
+<h3>Install pkg globally</h3>
+<p>npm i -g pkg</p>
+
 <h3>Generate executable</h3>
 <p>pkg wifi.js</p>
